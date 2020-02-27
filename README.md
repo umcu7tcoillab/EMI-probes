@@ -18,3 +18,25 @@ The design and subsequent drawing has been done in Kicad 5.1.5.
 ## Download
 Gerber files for the latest version of the PCB can be found in the 'Releases' page, or by following [this link](https://github.com/umcu7tcoillab/EMI-probes/releases/latest). 
 You can also make your own production files by downloading the Kicad project and generating them.
+
+
+## Images
+**H-Field probe 4mm**
+<img src="Images/H-field probe 4mm.jpg?raw=true"/>
+
+**H-Field probe 10mm**
+<img src="Images/H-field probe 10mm.jpg?raw=true"/>
+
+**H-Field probe 22mm**
+<img src="Images/H-field probe 22mm.jpg?raw=true"/>
+
+
+**E-Field probe 5mm**
+<img src="Images/E-field probe 5mm.jpg?raw=true"/>
+
+**E-Field probe 10mm**
+<img src="Images/E-field probe 10mm.jpg?raw=true"/>
+
+
+**Probe collection**
+<img src="Images/Collection.png?raw=true"/>
