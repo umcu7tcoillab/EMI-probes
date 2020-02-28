@@ -21,22 +21,29 @@ You can also make your own production files by downloading the Kicad project and
 
 
 ## Images
+**Probe collection**
+<img src="Images/Collection.jpg?raw=true"/>
+
 **H-Field probe 4mm**
-<img src="Images/H-field probe 4mm.jpg?raw=true"/>
+<img src="Images/H-field probe 4mm.png?raw=true"/>
 
 **H-Field probe 10mm**
-<img src="Images/H-field probe 10mm.jpg?raw=true"/>
+<img src="Images/H-field probe 10mm.png?raw=true"/>
 
 **H-Field probe 22mm**
-<img src="Images/H-field probe 22mm.jpg?raw=true"/>
+<img src="Images/H-field probe 22mm.png?raw=true"/>
+
+**H-Field probe 40mm**
+<img src="Images/H-field probe 40mm.png?raw=true"/>
+
+**H-Field probe 60mm**
+<img src="Images/H-field probe 60mm.png?raw=true"/>
 
 
 **E-Field probe 5mm**
-<img src="Images/E-field probe 5mm.jpg?raw=true"/>
+<img src="Images/E-field probe 5mm.png?raw=true"/>
 
 **E-Field probe 10mm**
-<img src="Images/E-field probe 10mm.jpg?raw=true"/>
+<img src="Images/E-field probe 10mm.png?raw=true"/>
 
 
-**Probe collection**
-<img src="Images/Collection.png?raw=true"/>
