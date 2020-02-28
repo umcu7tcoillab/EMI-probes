@@ -11,6 +11,10 @@ This project contains a collection of H-field and E-field EMI probes:
 - H-field probe 4mm
 - H-field probe 10mm
 - H-field probe 22mm
+- H-field probe 40mm
+- H-field probe 60mm
+
+The connector fits SMA/SMB/BNC type connectors.
 
 The design and subsequent drawing has been done in Kicad 5.1.5.
 
