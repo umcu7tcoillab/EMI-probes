@@ -22,7 +22,7 @@ You can also make your own production files by downloading the Kicad project and
 
 ## Images
 **Probe collection**
-<img src="Images/Collection.jpg?raw=true"/>
+<img src="Images/Collection.png?raw=true"/>
 
 **H-Field probe 4mm**
 <img src="Images/H-field probe 4mm.png?raw=true"/>
