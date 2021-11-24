@@ -1,5 +1,7 @@
 # H-field & E-field EMI probes
 
+## WARNING: Untested design
+
 ## About us
 This design has been made by the coil-lab of the High Field MRI Group of the UMC Utrecht in the Netherlands, where we make hardware to support our researchers. We are part of a research group which means we feel the need to open up some of our designs to whomever can make use of it, to further the research of MRI applications.
 
