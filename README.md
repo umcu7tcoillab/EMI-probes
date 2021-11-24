@@ -22,8 +22,7 @@ The design and subsequent drawing has been done in Kicad 5.1.5.
 
 
 ## Download
-Gerber files for the latest version of the PCB can be found in the 'Releases' page, or by following [this link](https://github.com/umcu7tcoillab/EMI-probes/releases/latest). 
-You can also make your own production files by downloading the Kicad project and generating them.
+Gerber files can be made by downloading the Kicad project and generating them.
 
 
 ## Images
